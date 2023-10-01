@@ -37,6 +37,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/BNdungu/BNdungu/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/BNdungu/BNdungu/output/snake.svg" alt="Snake animation" /> -->
 
 ###
