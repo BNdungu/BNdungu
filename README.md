@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on improving my Fullstack Software dev skills<br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning thre MERN stack<br>💬 Ask me about anyhting<br>⚡ Fun fact
+🔭 I’m a Software developer, with skills in creating web applications, building to docker images and deploying on k8 or on docker container env with aid of CI/CD pipelines <br>👯 I’m looking to collaborate on open source projects<br>🌱  <br>💬 Ask me about anyhting<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
